@@ -1,0 +1,32 @@
+.head{
+    color:  #25396f !important;
+   margin-top: 40px !important;
+
+}
+.para{
+    color:#7c8db5!important;
+         
+ }
+
+.btn{
+color: #25396f;
+background-color: white;
+height: 50px;
+width: 260px;
+/* margin-top: 1px; */
+margin: 30px;
+font-size: 25px
+
+}
+
+.btn:hover{
+  color:  white !important;
+  background-color: #25396f !important;
+    
+    
+}
+
+.star{
+color:rgb(197, 188, 188) 
+
+}
